@@ -40,7 +40,7 @@ http://localhost:8080/api/v1
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Mohammedtg208/booky-api.git
+    git clone https://github.com/Mohammedtg208/booky-Library.git
     cd booky-api
     ```
 
