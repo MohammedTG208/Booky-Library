@@ -45,7 +45,11 @@ http://localhost:8080/api/v1
     ```
 
 2. Ensure you have Docker installed and running.
+   You can easily pull the Docker image using the following command:
+   ```bash
+    docker pull mohammedtg208/booky:latest
+    ```
 
-3. Build and run the application.
+4. Build and run the application.
 
-4. Use a tool like Postman or curl to test the API endpoints.
+5. Use a tool like Postman or curl to test the API endpoints.
